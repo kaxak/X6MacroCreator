@@ -1,5 +1,4 @@
 $ cat .gitignore
 debug/
 release/
-*.[oa]
 *.user
